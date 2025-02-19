@@ -26,3 +26,4 @@ Before running this lab, make sure you have:
 
 ## Step-by-Step
 1. Create the VM by running the script ([create-vm.sh](https://github.com/ingalr/gcp-ace-prep/blob/main/HOLs/create-vm-gcloud/create-vm.sh))
+2. Delete the VM to avoid charges to your bill by running the script ([delete-vm.sh](https://github.com/ingalr/gcp-ace-prep/blob/main/HOLs/create-vm-gcloud/delete-vm.sh))
