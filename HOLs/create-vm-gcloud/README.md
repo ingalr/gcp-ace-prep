@@ -21,3 +21,8 @@ Before running this lab, make sure you have:
    ```sh
    gcloud auth login
    gcloud config set project [YOUR_PROJECT_ID]
+   
+---
+
+## Step-by-Step
+1. Create the VM by running the script ([create-vm.sh](https://github.com/ingalr/gcp-ace-prep/blob/main/HOLs/create-vm-gcloud/create-vm.sh))
